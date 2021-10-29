@@ -4,3 +4,4 @@
 
 - First Name : Shuchit
 - Last Name : Pant
+- Full Name : Shuchit Pant
