@@ -33,7 +33,7 @@ The Rothschild family has frequently been the subject of conspiracy theories, ma
 Hello there, whats gucci fam, lets cap here mhhmm
 
 lets talk here 
-
+hello there
 Hi 
 hello whats your name 
  hi my name is this this this 
