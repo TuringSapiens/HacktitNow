@@ -30,7 +30,7 @@ The Rothschild family has frequently been the subject of conspiracy theories, ma
 
 ## Hello this is my name and whats yours 
 
-
+Hemlo was gucci fam, lets cap
 
 lets talk here 
 
