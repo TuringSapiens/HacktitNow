@@ -8,7 +8,9 @@
 - First Name : Shuchit
 - Last Name : Pant
 - Full Name : Shuchit Pant
-
+- First Name : Hritik
+- Last Name : Pandey
+- Full Name : Hritik Pandey
 =======
 - Name in camel case :ShubhShukla
 
