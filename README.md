@@ -8,8 +8,9 @@
 - First Name : Shuchit
 - Last Name : Pant
 - Full Name : Shuchit Pant
-
- ## Hello!! What's Up? What's Gucci??
+- First Name : Hritik
+- Last Name : Pandey
+- Full Name : Hritik Pandey
 
 =======
 - Name in camel case :ShubhShukla
@@ -29,10 +30,10 @@ The Rothschild family has frequently been the subject of conspiracy theories, ma
 
 ## Hello this is my name and whats yours 
 
-
+Hello there, whats gucci fam, lets cap here mhhmm
 
 lets talk here 
-
+hello there
 Hi 
 hello whats your name 
  hi my name is this this this 
