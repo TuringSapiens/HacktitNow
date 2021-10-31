@@ -17,7 +17,7 @@
 
 Hello my name is Shubh Shukla this is a repo in which pull requests count towards hacktoberfest 
 
-
+Hello my name is Hritik Pandey and I'm a 3rd year student.
 
 ## Rothschild family
 
