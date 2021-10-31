@@ -29,8 +29,7 @@ The Rothschild family has frequently been the subject of conspiracy theories, ma
 =======
 
 ## Hello this is my name and whats yours 
-
-Hello there, whats gucci fam, lets cap here mhhmm
+Chelsea is top of the table currently (31/10/2021)
 
 lets talk here 
 hello there
